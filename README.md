@@ -73,3 +73,21 @@ An interactive **Streamlit-based recommendation system** that helps users discov
 ```bash
 python -m venv venv
 ```
+
+### ▶️ Step 2: Activate Environment
+## Windows
+```bash
+.\venv\Scripts\activate
+```
+## macOS/Linx
+```bash
+source venv/bin/activate
+```
+### 📦 Step 3: Install Dependencies
+```bash
+pip install numpy pandas streamlit matplotlib scikit-learn
+```
+### 🚀 Step 4: Launch Streamlit App
+```bash
+streamlit run app.py
+```
