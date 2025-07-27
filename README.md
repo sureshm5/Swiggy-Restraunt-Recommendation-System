@@ -75,11 +75,11 @@ python -m venv venv
 ```
 
 ### ▶️ Step 2: Activate Environment
-## Windows
+#### Windows
 ```bash
 .\venv\Scripts\activate
 ```
-## macOS/Linx
+#### macOS/Linx
 ```bash
 source venv/bin/activate
 ```
